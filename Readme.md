@@ -9,7 +9,7 @@ Find the first element in the array that starts with 'o':
 string[] strings = { "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
 
 
-Ejercicio2: 
+Ejercicio 2: 
 Return the first element of the sequence:
 
 int[] numbers = { };
@@ -46,7 +46,7 @@ Determine whether an array contains only odd numbers.
 int[] numbers = { 1, 11, 3, 19, 41, 65, 19 };
 
 
-### EJERCICIOS DE ORDENACIÓN:
+### EJERCICIOS DE ORDENACIÃ“N:
 
 Ejercicio 8:
 Sort a list of words alphabetically
@@ -73,7 +73,7 @@ Order a list of digits, first by length of their name, and then alphabetically b
 string[] digits = { "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
 
 
-###EJERCICIOS DE AGRUPACIÓN:
+###EJERCICIOS DE AGRUPACIÃ“N:
 
 Ejercicio 12: 
 Uses group by to partition a list of numbers by their remainder when divided by 5
@@ -86,7 +86,7 @@ Uses group by to partition a list of words by their first letter.
 string[] words = { "blueberry", "chimpanzee", "abacus", "banana", "apple", "cheese" };
 
 
-### EJERCICIOS DE AGREGACIÓN:
+### EJERCICIOS DE AGREGACIÃ“N:
 
 Ejercicio 14: 
 Uses Average to get the average of all numbers in an array
